@@ -1,0 +1,1 @@
+root = '../DigitRecognizer/mnist/'
